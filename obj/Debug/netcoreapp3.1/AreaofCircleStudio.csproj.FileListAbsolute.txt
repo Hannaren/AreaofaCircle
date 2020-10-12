@@ -1,0 +1,13 @@
+C:\Users\sumpt\Desktop\csharp-practice\class1\studio\AreaofCircleStudio\AreaofCircleStudio\bin\Debug\netcoreapp3.1\AreaofCircleStudio.exe
+C:\Users\sumpt\Desktop\csharp-practice\class1\studio\AreaofCircleStudio\AreaofCircleStudio\bin\Debug\netcoreapp3.1\AreaofCircleStudio.deps.json
+C:\Users\sumpt\Desktop\csharp-practice\class1\studio\AreaofCircleStudio\AreaofCircleStudio\bin\Debug\netcoreapp3.1\AreaofCircleStudio.runtimeconfig.json
+C:\Users\sumpt\Desktop\csharp-practice\class1\studio\AreaofCircleStudio\AreaofCircleStudio\bin\Debug\netcoreapp3.1\AreaofCircleStudio.runtimeconfig.dev.json
+C:\Users\sumpt\Desktop\csharp-practice\class1\studio\AreaofCircleStudio\AreaofCircleStudio\bin\Debug\netcoreapp3.1\AreaofCircleStudio.dll
+C:\Users\sumpt\Desktop\csharp-practice\class1\studio\AreaofCircleStudio\AreaofCircleStudio\bin\Debug\netcoreapp3.1\AreaofCircleStudio.pdb
+C:\Users\sumpt\Desktop\csharp-practice\class1\studio\AreaofCircleStudio\AreaofCircleStudio\obj\Debug\netcoreapp3.1\AreaofCircleStudio.csprojAssemblyReference.cache
+C:\Users\sumpt\Desktop\csharp-practice\class1\studio\AreaofCircleStudio\AreaofCircleStudio\obj\Debug\netcoreapp3.1\AreaofCircleStudio.AssemblyInfoInputs.cache
+C:\Users\sumpt\Desktop\csharp-practice\class1\studio\AreaofCircleStudio\AreaofCircleStudio\obj\Debug\netcoreapp3.1\AreaofCircleStudio.AssemblyInfo.cs
+C:\Users\sumpt\Desktop\csharp-practice\class1\studio\AreaofCircleStudio\AreaofCircleStudio\obj\Debug\netcoreapp3.1\AreaofCircleStudio.csproj.CoreCompileInputs.cache
+C:\Users\sumpt\Desktop\csharp-practice\class1\studio\AreaofCircleStudio\AreaofCircleStudio\obj\Debug\netcoreapp3.1\AreaofCircleStudio.dll
+C:\Users\sumpt\Desktop\csharp-practice\class1\studio\AreaofCircleStudio\AreaofCircleStudio\obj\Debug\netcoreapp3.1\AreaofCircleStudio.pdb
+C:\Users\sumpt\Desktop\csharp-practice\class1\studio\AreaofCircleStudio\AreaofCircleStudio\obj\Debug\netcoreapp3.1\AreaofCircleStudio.genruntimeconfig.cache
